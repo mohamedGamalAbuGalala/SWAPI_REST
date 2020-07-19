@@ -1,5 +1,5 @@
 import asyncio
-from character.utils import fetch
+from src.character.utils import fetch
 
 
 async def get_species(species_urls):

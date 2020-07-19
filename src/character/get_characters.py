@@ -1,6 +1,6 @@
 import asyncio
-from character.utils import fetch
-from character.get_character import get_character
+from src.character.utils import fetch
+from src.character.get_character import get_character
 
 SWAPI_BASE = 'https://swapi.dev/api/'
 

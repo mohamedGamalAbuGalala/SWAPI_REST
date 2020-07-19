@@ -1,5 +1,5 @@
 import asyncio
-from character.get_character_data import *
+from src.character.get_character_data import *
 
 
 async def get_character(character):
