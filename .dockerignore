@@ -1,0 +1,12 @@
+# ignoring venv files
+venv/
+
+# cach files
+__pycache__/
+.pytest_cache/
+.vscode/*
+.git*
+.git/
+
+Dockerfile
+docker-compose.yml
